@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    outline: 1px dotted lime;
+}
+body {
+    background-color: aliceblue;
+    background-size: 800px, auto;
+    font-family: 'Dosis',sans-serif;
+    
+    margin: 0;
+}
+
+.banner{
+    height: 300px;
+    background-color: #FA859D;
+}
+
+.logo {
+    color: white;
+    font-size: 5rem;
+    font-family: 'Roboto Slab', sans-serif;
+    text-align: center
+    
+}
+#sub {
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.7rem;
+    
+}
+#about{
+    background-color: #3C6C85;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.7rem;
+}
+#previous{
+    
+}
+#contact{
+    background-color: #3C6C85;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.7rem;
+}
+.box img {
+    width: 50%;
+    height: 50%;
+}
+.box1 img {
+    object-fit: cover;
+}
+.box2 img {
+    object-fit: cover;
+}
+p {
+    text-align: center;
+}
+
